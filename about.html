@@ -48,7 +48,7 @@
                      <div class="full">
                         <div class="center-desk">
                            <div class="logo">
-                              <a href="index.html"><h1 style="font-weight: bolder;">Vivek<span style="font-size: 40px;">Web</span></h1></a>
+                              <a href="index.php"><h1 style="font-weight: bolder;">Vivek<span style="font-size: 40px;">Web</span></h1></a>
                            </div>
                         </div>
                      </div>
